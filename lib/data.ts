@@ -81,7 +81,7 @@ export const projectsData = [
     title: "Attack Detection",
     description:
       "A web application that detects cyber attacks using machine learning algorithms.",
-    tags: ["Scikit-learn", "Flask", "MLFlow", "AWS EC2", "ETL", "Docker"],
+    tags: ["Scikit-learn", "Flask", "MLFlow", "AWS EC2", "ETL"],
     imageUrl: Cyber_Attack,
     codeLink:"https://github.com/Sabarna-dotcom/Network_Security"
   },

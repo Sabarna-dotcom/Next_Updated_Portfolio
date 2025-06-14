@@ -78,7 +78,7 @@ export const projectsData = [
     codeLink:"https://github.com/Sabarna-dotcom/Algerian_Forest_Fire_Prediction"
   },
   {
-    title: "Cyber Attack Detection",
+    title: "Attack Detection",
     description:
       "A web application that detects cyber attacks using machine learning algorithms.",
     tags: ["Scikit-learn", "Flask", "MLFlow", "AWS EC2", "ETL", "Docker"],
